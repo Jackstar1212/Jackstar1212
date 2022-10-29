@@ -8,7 +8,7 @@
 </a>
 
 ### 💬 About me
-Noob AmxModX & SourceMod plugin maker
+Noob Plugin Translator
 
 ### 📫 Contact
  * <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="16" height="16" /> -
