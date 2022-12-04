@@ -9,7 +9,7 @@
 
 ### ⚡Special Repository For Comment
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackstar1212&repo=Issues-or-request)](https://github.com/Jackstar1212/Issues-or-request)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackstar1212&repo=Issues-or-Request)](https://github.com/Jackstar1212/Issues-or-Request)
 
 ### 💬 About me
 Noob Plugin Translator
