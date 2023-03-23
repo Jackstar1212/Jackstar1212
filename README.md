@@ -7,7 +7,11 @@
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Jackstar1212&layout=compact&theme=transparent" />
 </a>
 
-### ⚡Special Repository For Comment
+### ⚡ Pinned Repository
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackstar1212&repo=MutiDiagToolkit)](https://github.com/Jackstar1212/MutiDiagToolkit)
+
+### 📫 Special Repository For Comment
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackstar1212&repo=Issues-or-Request)](https://github.com/Jackstar1212/Issues-or-Request)
 
