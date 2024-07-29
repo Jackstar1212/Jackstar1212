@@ -3,12 +3,22 @@
 - 我想我是海，潮起时期待，潮落时无奈
 
 ## 🌱 Stats
+
+<a href="https://github.com/Jackstar1212">
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jackstar1212&show_icons=true&hide_border=true&theme=transparent" />
+</a>
+<a href="https://github.com/Jackstar1212">
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Jackstar1212&layout=compact&theme=transparent" />
+</a>
+
+<!--
 <a href="https://github.com/Jackstar1212">
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jackstar1212&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
 </a>
 <a href="https://github.com/Jackstar1212">
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Jackstar1212&layout=compact&theme=transparent" />
 </a>
+-->
 
 ### ⚡ Pinned Repository
 
