@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+- 我想我是海，潮起时期待，潮落时无奈
+
 ## 🌱 Stats
 <a href="https://github.com/Jackstar1212">
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jackstar1212&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
@@ -23,6 +26,10 @@ Noob Plugin Translator
  * <img src="https://steamcommunity.com/favicon.ico" width="16" height="16" /> [Nekomata](https://steamcommunity.com/id/LonelyFish88)
 
 - 📫 How to reach me: Email: Jackstar1212@163.com
+
+> Never left without saying goodbye.
+> 转身离开之前，不要忘了说最后一次再见。
+
 <!--
 **Jackstar1212/Jackstar1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
