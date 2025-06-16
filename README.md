@@ -29,7 +29,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackstar1212&repo=Issues-or-Request)](https://github.com/Jackstar1212/Issues-or-Request)
 
 ### 💬 About me
-Noob Plugin Translator
+Noob Plugin Translator & Script Learner
 
 ### 📫 Contact
  * <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="16" height="16" /> -
